@@ -5,8 +5,6 @@
 </p>
 <div align="center">
   
-Sou desenvolvedor Java há cerca de um ano. Minha curiosidade em entender o que acontece por trás dos panos me levou ao backend, onde venho me aprofundando em Java, Spring Boot e MySQL. Também aplico boas práticas como Clean Code, princípios SOLID e arquitetura limpa para escrever códigos mais claros e sustentáveis.
-
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
