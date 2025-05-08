@@ -10,12 +10,6 @@
 Sou desenvolvedor Java há cerca de um ano. Minha curiosidade em entender o que acontece por trás dos panos me levou ao backend, onde venho me aprofundando em Java, Spring Boot e MySQL. Também aplico boas práticas como Clean Code, princípios SOLID e arquitetura limpa para escrever códigos mais claros e sustentáveis.
 
 </div>
-<div align="center">
-  <a href="https://github.com/LucasRibasCardoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasRibasCardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibasCardoso&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
