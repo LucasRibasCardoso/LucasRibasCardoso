@@ -5,8 +5,6 @@
 </p>
 <div align="center">
   
-☕ Eu sou desenvolvedor Back-end e atualmente trabalho com Java
-
 Sou desenvolvedor Java há cerca de um ano. Minha curiosidade em entender o que acontece por trás dos panos me levou ao backend, onde venho me aprofundando em Java, Spring Boot e MySQL. Também aplico boas práticas como Clean Code, princípios SOLID e arquitetura limpa para escrever códigos mais claros e sustentáveis.
 
 </div>
