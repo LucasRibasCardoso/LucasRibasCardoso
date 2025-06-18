@@ -29,6 +29,3 @@ Tenho 19 anos, sou de Santa Catarina e um entusiasta da tecnologia. Atualmente, 
 <a href="https://www.instagram.com/__lucasribas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border:0;"/>
 </a>
-<a href="mailto:lucas.rib.card@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border:0;"/>
-</a>
