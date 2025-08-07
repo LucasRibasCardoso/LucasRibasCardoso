@@ -8,19 +8,6 @@ Tenho 19 anos, sou de Santa Catarina e um entusiasta da tecnologia. Atualmente, 
 
 ---
 
-### Tecnologias
-
-<div> 
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" style="margin-right: 15px;"/>
-    <img width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
-</div>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/lucasribascardoso">
