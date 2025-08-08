@@ -1,18 +1,23 @@
-# Lucas Ribas Cardoso - Desenvolvedor Backend
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-**`Desenvolvedor Backend`**
+<p align="left"> 
+  Olá meu nome é Lucas! Sou desenvolvedor backend especializado no ecossistema Java e Spring Boot. Desenvolvo aplicações de alta performance e escaláveis, aplicando princípios como Clean Architecture, SOLID e Design Patterns para garantir um código de alta qualidade e fácil manutenção.
+</p>
 
-### Olá, sou o Lucas! 👋
+<p align="left">
+  Tecnologias: Java, Spring Framework, Docker, PostgresSQL, MySQL, JUnit, JWT
+    
+<p align="left">
+  Ferramentas: InteliJ IDEA, Postman, Git, GitHub, GitHub Actions
+</p>
 
-Tenho 19 anos, sou de Santa Catarina e um entusiasta da tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFSC (Instituto Federal de Santa Catarina)**. Minha curiosidade e instusiasmo em entender como as aplicações funcionam "por trás dos panos" me levou a trilhar o caminho do desenvolvimento **backend**.
+<p align="left">
+  Entre em contanto: ⤵️
+</p>
 
----
-
-<br/>
-
-<a href="https://www.linkedin.com/in/lucasribascardoso">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:0;"/>
-</a>
-<a href="https://www.instagram.com/__lucasribas">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border:0;"/>
-</a>
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasribascardoso" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/__lucasribas/" alt="Instagram"/></a>
+</p>
