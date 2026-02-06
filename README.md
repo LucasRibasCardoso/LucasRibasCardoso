@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🎓 4° Semestre de Análise e Desenvolvimento de Sistemas.
+- 🎓 5° Semestre de Análise e Desenvolvimento de Sistemas.
 - 💻 Especializado em **Java e Spring Framework**.
 - 📊 Experiência em aplicações de **alta performance e escaláveis**.
 - 📑 Conhecimento em princípios como **Clean Architecture, SOLID e Design Patterns** para garantir um código de alta qualidade e fácil manutenção.
