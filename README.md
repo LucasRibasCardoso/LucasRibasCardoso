@@ -38,9 +38,9 @@ Sou um desenvolvedor focado na construção de sistemas backend robustos, escal�
 
 Convido você a conferir o código-fonte e a arquitetura dos meus principais projetos abaixo:
 
-*   **[Arena Máfia Backend]** - API de agendamento esportivo utilizando Java 21, Spring Boot, PostgreSQL, SQS, Redis e pipeline de observabilidade (OpenTelemetry, Prometheus, Grafana).
-*   **[URL Shortener]** - Encurtador de URLs de alta performance utilizando Java 21, DynamoDB (Single-Table Design), SQS, EventBridge e LocalStack.
-*   **[Sistema de Gestão - CR Viagens]** - Aplicação full-stack (freelance) focada em gestão de clientes, com backend construído em Java (Spring Boot, Spring Security/JWT, MySQL) aplicando Clean Architecture, e frontend em React.
+*   **[Arena Máfia Backend](https://github.com/LucasRibasCardoso/rest-api-arena-mafia)** - API de agendamento esportivo utilizando Java 21, Spring Boot, PostgreSQL, SQS, Redis e pipeline de observabilidade completa (OpenTelemetry, Prometheus, Grafana).
+*   **[URL Shortener](https://github.com/LucasRibasCardoso/rest-api-url-shortener)** - Encurtador de URLs de alta performance utilizando Java 21, DynamoDB (Single-Table Design), SQS, EventBridge e LocalStack.
+*   **[Sistema de Gestão - CR Viagens](https://github.com/LucasRibasCardoso/crm-gerenciamento-de-clientes)** - Aplicação full-stack (freelance) focada em gestão de clientes, com backend construído em Java (Spring Boot, Spring Security/JWT, MySQL) aplicando Clean Architecture, e frontend em React.
 ---
 
 ### 📬 Vamos Conversar?
